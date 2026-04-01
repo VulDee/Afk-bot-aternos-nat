@@ -8,7 +8,8 @@
   "server": {
     "ip": "Tungtungsahur967.aternos.me",
     "port": 22000,
-    "version": false
+    "version": "1.21.1"
+  
   },
   "position": {
     "enabled": true,
