@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Dinnerbone",
+    "username": "eeDluV",
     "password": "",
     "type": "offline"
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": ""
     },
     "anti-afk": {
@@ -63,15 +63,15 @@
     }
   },
   "modules": {
-    "avoidMobs": false,
-    "combat": false,
-    "beds": false,
+    "avoidMobs": true,
+    "combat": true,
+    "beds": true,
     "chat": true,
     "console-commands": false
   },
   "combat": {
-    "attack-mobs": false,
-    "auto-eat": false
+    "attack-mobs": true,
+    "auto-eat": true
   },
   "beds": {
     "pick-up-day": false,
@@ -87,6 +87,6 @@
     }
   },
   "chat": {
-    "respond": false
+    "respond": true
   }
 }
